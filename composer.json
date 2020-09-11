@@ -55,7 +55,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "git@github.com:doubleoh13/PHPExcel"
+      "url": "git@github.com:doubleoh13/PHPExcel.git"
     }
   ]
 }
